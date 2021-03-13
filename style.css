@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  align-content: center;
+}
+
+a {
+  padding: 10px;
+}
+
+figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+
+p {
+  width: 800px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  width: 25%;
+}
